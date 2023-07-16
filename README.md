@@ -1,1 +1,1 @@
-# Intern_sapo_20222
+# Springboot-ReactJS app basic
